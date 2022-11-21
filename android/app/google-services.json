@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1099464574638",
+    "project_id": "deft-station-368306",
+    "storage_bucket": "deft-station-368306.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099464574638:android:c0963ca0328b5786cd8f3f",
+        "android_client_info": {
+          "package_name": "com.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099464574638-2toqbjaqapsf6flqabtfkjk5ko12mrm5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.todo_app",
+            "certificate_hash": "fa375040bb0db92e7991fc6be3210be77671cae4"
+          }
+        },
+        {
+          "client_id": "1099464574638-rtp6t3hr9246u3rg9h744ajp6jglrof9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdlGpTGjkj2xLyUZIhTr9ZCPs_0IPwfIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099464574638-29n9lcfk9pcdd128usekbm9nl4r443jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
